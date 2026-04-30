@@ -25,6 +25,7 @@ SList<T>::~SList() {
   //''' LAB TASK '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
   // Implement destructor
   //''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+  // while (m_head_p != nullptr) {  uncomment and begin with this line
 
 }
 
